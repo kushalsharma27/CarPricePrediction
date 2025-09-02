@@ -92,7 +92,3 @@ This project is a **web-based car price prediction application** built using **P
 
 ---
 
-## 👨‍💼 Author
-
-**Your Name**
-[LinkedIn](#) | [GitHub](#) | [Email](#)
