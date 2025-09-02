@@ -89,6 +89,3 @@ This project is a **web-based car price prediction application** built using **P
 * Deploy on Heroku or Render.
 
 ---
-
----
-
